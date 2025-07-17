@@ -1,0 +1,1 @@
+This portfolio project was built using HTML and Tailwind CSS as part of a bootcamp. I learned how to use Tailwind's utility classes to style and organize content efficiently. The project helped me practice layout design, responsiveness, and structuring real-world sections like about, projects, and contact. I'm happy with how it turned out and plan to keep improving it.
